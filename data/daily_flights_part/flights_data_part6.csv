@@ -1,0 +1,5 @@
+Carrier,OriginAirportID,DestAirportID,DepDelay,ArrDelay
+WN,11292,12191,11,1
+WN,11292,12191,-3,-6
+WN,11292,12191,1,-12
+WN,11292,12264,22,8
